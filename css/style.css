@@ -12,6 +12,7 @@ body {
     position: fixed;
     top: 0%;
     height: 8.5vh;
+    width: 100%;
 }
 .topbar .logo {
     width: 13%;
